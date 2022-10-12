@@ -36,12 +36,12 @@ public class Employee {
         return middleName;
     }
 
-    public int getId() {
-        return id;
-    }
-
     public String getFirstName() {
         return firstName;
+    }
+
+    public int getId() {
+        return id;
     }
 
     public String getFullName() {
